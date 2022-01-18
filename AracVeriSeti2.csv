@@ -1,0 +1,188 @@
+MODEL,SEHIR,YAKIT_TIPI,VITES_TIPI,YIL,KM,MOTOR_HACMI,MOTOR_GUCU,FIYAT
+istanbul ,Polo,Benzin,Otomatik Vites,2018,62.122,1300,100,352.000
+ankara ,Jetta,Benzin,Düz Vites,2007,101.000,1301,101,230
+istanbul ,Golf,Benzin,Düz Vites,2014,74.278,1300,101,295.000
+istanbul ,Polo,Benzin,Düz Vites,1998,265.500,1301,100,45.000
+istanbul ,Passat,Dizel,Otomatik Vites,2014,227.000,1801,126,307.500
+ankara ,Polo,Benzin,Otomatik Vites,1998,207.000,1301,51,54.000
+ankara ,1600,Benzin,Otomatik Vites,1997,193.000,1301,51,54.000
+adana ,Polo,Benzin,Düz Vites,2001,380.000,1301,51,55.000
+istanbul ,Polo,Benzin,Düz Vites,1994,125.000,1601,76,58.000
+istanbul ,Polo,Benzin,Düz Vites,1998,159.000,1301,76,58.000
+izmir ,Polo,Benzin,Düz Vites,1999,250.000,1301,76,60.500
+istanbul ,Jetta,Benzin,Düz Vites,2017,88.364,1301,101,299.500
+istanbul ,Polo,Benzin,Düz Vites,2006,217.000,1301,51,70.500
+istanbul ,Polo,Benzin,Düz Vites,2002,209.000,1301,51,75.000
+istanbul ,Golf,Benzin,Otomatik Vites,2001,256.711,1601,101,77.000
+ankara ,Bora,Benzin,Düz Vites,1999,273.000,1301,101,77.000
+izmir ,Polo,Benzin,Düz Vites,2000,247.000,1301,76,77.000
+istanbul ,Bora,Benzin,Düz Vites,2001,286.000,1301,101,78.000
+istanbul ,Polo,Benzin,Düz Vites,2006,164.000,1301,100,79.000
+ankara ,Polo,Dizel,Düz Vites,2006,200.000,1301,100,82.000
+istanbul ,Passat,Dizel,Otomatik Vites,2020,26.000,1601,101,692.500
+adana ,Bora,Benzin,Düz Vites,2005,245.000,1301,101,82.500
+istanbul ,Golf,Dizel,Düz Vites,2006,301.000,1801,101,85.000
+ankara ,1600,Benzin,Düz Vites,2000,181.000,1301,101,86.000
+ankara ,Golf,Benzin,Düz Vites,1999,298.000,1301,101,86.000
+ankara ,Golf,Benzin,Düz Vites,2003,240.000,1301,101,89.000
+ankara ,1600,Benzin,Düz Vites,2000,180.000,1301,101,90.000
+ankara ,Bora,Benzin,Düz Vites,2004,237.000,1301,101,91.500
+istanbul ,Bora,Benzin,Otomatik Vites,2001,306.250,1301,100,92.500
+adana ,Jetta,Benzin,Düz Vites,2006,339.000,1601,101,95.000
+ankara ,Passat,Benzin,Düz Vites,2001,444.000,1801,126,95.000
+istanbul ,Jetta,Benzin,Düz Vites,2008,188.000,1301,101,96.000
+istanbul ,Polo,Dizel,Düz Vites,2012,235.000,1300,76,98.500
+istanbul ,Polo,Benzin,Düz Vites,2001,212.000,1301,76,98.500
+istanbul ,Polo,Dizel,Düz Vites,2012,137.000,1300,100,105.000
+ankara ,Bora,Benzin,Düz Vites,2004,280.000,1301,101,105.000
+istanbul ,1600,Dizel,Düz Vites,2008,229.000,2001,126,105.000
+ankara ,Passat,Benzin,Düz Vites,1997,310.000,1801,151,105.500
+izmir ,Passat,Benzin,Düz Vites,2004,14.000,1301,101,105.700
+izmir ,Golf,Benzin,Otomatik Vites,2007,162.000,1301,101,106.000
+istanbul ,Golf,Dizel,Yarý Otomatik Vites,2017,110.800,1301,101,438.000
+ankara ,Passat,Benzin,Düz Vites,2003,219.000,1801,126,110.000
+bursa ,Polo,Benzin,Düz Vites,2013,114.500,1801,51,110.500
+ankara ,Polo,Dizel,Düz Vites,2014,128.500,1300,51,111.000
+ankara ,Polo,Dizel,Düz Vites,2014,128.500,1300,51,111.000
+istanbul ,Polo,Dizel,Düz Vites,2014,250.000,1300,51,112.500
+izmir ,Polo,Dizel,Düz Vites,2006,155.000,1301,100,113.000
+ankara ,Golf,Benzin,Yarý Otomatik Vites,2008,161.100,1301,126,113.500
+istanbul ,Passat,Dizel,Yarý Otomatik Vites,2016,65.000,1301,101,305.000
+ankara ,Polo,Benzin,Düz Vites,2011,305.000,1300,51,114.500
+istanbul ,Polo,Benzin,Otomatik Vites,2014,108.000,1300,76,115.000
+ankara ,Polo,Dizel,Düz Vites,2012,170.700,1300,100,115.000
+ankara ,Jetta,Benzin,Düz Vites,2008,230.000,1301,101,117.000
+istanbul ,Polo,Dizel,Düz Vites,2013,194.000,1301,100,118.500
+istanbul ,Golf,Benzin,Otomatik Vites,2001,65.700,1301,101,119.500
+istanbul ,Golf,Benzin,Yarý Otomatik Vites,2009,205.000,1301,126,120.000
+istanbul ,Golf,Benzin,Yarý Otomatik Vites,2009,205.000,1301,126,120.000
+izmir ,Polo,Dizel,Düz Vites,2013,83.000,1301,76,120.000
+istanbul ,Polo,Dizel,Düz Vites,2011,107.000,1300,100,123.900
+adana ,Passat,Dizel,Otomatik Vites,2009,262.000,2001,126,125.000
+istanbul ,Passat,Benzin,Yarý Otomatik Vites,2020,36.551,1301,126,637.000
+istanbul ,Polo,Benzin,Düz Vites,2013,80.000,1300,51,125.000
+istanbul ,Golf,Benzin,Yarý Otomatik Vites,2007,127.000,1301,101,125.000
+istanbul ,Jetta,Dizel,Otomatik Vites,2010,198.000,1301,101,125.000
+istanbul ,Golf,Benzin,Düz Vites,2011,174.000,1301,101,125.000
+izmir ,Polo,Benzin,Yarý Otomatik Vites,2008,162.000,1301,101,125.000
+istanbul ,Jetta,Benzin,Düz Vites,2006,248.000,1601,101,125.000
+ankara ,Polo,Dizel,Düz Vites,2014,127.000,1301,76,127.500
+adana ,Polo,Benzin,Yarý Otomatik Vites,2011,65.000,1301,76,128.000
+istanbul ,Polo,Dizel,Düz Vites,2016,83.000,1301,51,130.000
+ankara ,Polo,Dizel,Düz Vites,2015,195.000,1601,101,133.000
+ankara ,Passat,Dizel,Otomatik Vites,2008,250.000,1801,126,136.500
+istanbul ,1600,Dizel,Düz Vites,2014,290.000,2001,151,137.000
+istanbul ,Jetta,Benzin,Düz Vites,2014,150.000,1300,101,139.000
+istanbul ,Polo,Dizel,Düz Vites,2012,132.000,1300,100,139.000
+izmir ,Passat Variant,Benzin,Yarý Otomatik Vites,2009,250.000,1301,101,140.000
+istanbul ,Jetta,Benzin,Yarý Otomatik Vites,2010,127.000,1301,101,141.500
+bursa ,Golf,Dizel,Otomatik Vites,2010,267.000,1301,101,142.000
+istanbul ,Polo,Dizel,Düz Vites,2013,136.000,1300,76,144.500
+istanbul ,Golf,Dizel,Düz Vites,2012,195.000,1301,101,145.000
+istanbul ,Passat,Dizel,Otomatik Vites,2015,154.723,1301,101,510.000
+istanbul ,Jetta,Benzin,Düz Vites,2015,176.000,1300,101,146.900
+istanbul ,Polo,Dizel,Düz Vites,2016,124.000,1301,76,147.000
+adana ,Jetta,Dizel,Düz Vites,2012,80.000,1601,101,147.500
+istanbul ,Jetta,Dizel,Otomatik Vites,2014,175.000,1301,101,309.750
+istanbul ,Golf,Dizel,Yarý Otomatik Vites,2011,240.000,5501,501,148.000
+ankara ,Golf,Benzin,Düz Vites,2002,266.000,1301,101,148.000
+istanbul ,Jetta,Benzin,Yarý Otomatik Vites,2008,169.178,1601,101,150.000
+istanbul ,1600,Benzin,Düz Vites,2017,67.000,1300,51,150.000
+istanbul ,Passat,Benzin,Yarý Otomatik Vites,2010,226.500,1301,101,150.000
+ankara ,Passat,Benzin,Düz Vites,2006,179.000,1301,101,299.900
+adana ,Golf,Benzin,Düz Vites,2013,94.225,1300,101,155.000
+istanbul ,Golf,Benzin,Düz Vites,2005,195.000,1301,101,155.000
+istanbul ,Jetta,Dizel,Otomatik Vites,2014,143.000,1301,100,311.500
+istanbul ,Golf,Benzin,Düz Vites,2015,109.046,1300,101,300.000
+istanbul ,Polo,Benzin,Yarý Otomatik Vites,2018,47.000,1300,51,158.000
+adana ,Jetta,Benzin,Düz Vites,2008,305.000,1601,101,159.000
+istanbul ,Polo,Dizel,Düz Vites,2012,141.156,1300,100,162.000
+istanbul ,Tiguan,Benzin,Düz Vites,2011,70.000,1301,151,162.000
+istanbul ,Golf,Benzin,Düz Vites,2013,168.000,1301,101,165.000
+istanbul ,Polo,Benzin,Otomatik Vites,2017,11.201,1300,100,348.000
+istanbul ,Passat,Benzin,Yarý Otomatik Vites,2013,180.000,1301,101,165.000
+izmir ,Polo,Benzin,Düz Vites,2019,13.600,1300,76,165.000
+izmir ,Jetta,Dizel,Otomatik Vites,2012,212.000,1301,101,165.000
+adana ,1600,Benzin,Düz Vites,2011,130.000,1300,101,165.000
+istanbul ,Golf,Benzin,Düz Vites,2012,131.000,1301,126,165.000
+istanbul ,Passat,Benzin,Düz Vites,2010,88.200,1301,126,170.000
+adana ,Golf,Benzin,Düz Vites,2012,133.000,1301,101,170.000
+istanbul ,Golf,Dizel,Düz Vites,2014,178.500,1301,100,172.000
+istanbul ,Golf,Benzin,Düz Vites,2016,50.000,1300,101,172.500
+istanbul ,Passat,Dizel,Düz Vites,2012,154.881,1301,101,317.500
+istanbul ,Passat Variant,Benzin,Otomatik Vites,2011,170.000,1301,126,179.000
+adana ,Tiguan,Benzin,Düz Vites,2011,150.677,1301,126,180.000
+istanbul ,Jetta,Benzin,Düz Vites,2016,36.618,1300,101,318.500
+istanbul ,Jetta,Dizel,Yarý Otomatik Vites,2015,147.000,101,201,180.000
+istanbul ,Polo,Dizel,Yarý Otomatik Vites,2017,102.000,1301,76,180.000
+istanbul ,Jetta,Dizel,Düz Vites,2012,101.800,1301,101,180.000
+ankara ,Passat,Benzin,Otomatik Vites,2007,250.000,1301,101,184.000
+ankara ,Jetta,Benzin,Yarý Otomatik Vites,2016,90.000,1301,101,185.000
+istanbul ,Tiguan,Benzin,Düz Vites,2011,67.000,1301,126,185.000
+istanbul ,Golf,Benzin,Düz Vites,2015,109.046,1300,101,300.000
+ankara ,Jetta,Dizel,Düz Vites,2015,89.000,1601,101,186.000
+ankara ,Passat,Benzin,Düz Vites,2005,240.000,1301,101,187.000
+adana ,Golf,Benzin,Yarý Otomatik Vites,2010,202.000,1301,151,189.000
+istanbul ,Passat Variant,Dizel,Düz Vites,2012,156.000,1301,101,190.000
+istanbul ,Bora,Dizel,Otomatik Vites,2001,206.000,1801,100,190.000
+istanbul ,Passat,Dizel,Yarý Otomatik Vites,2012,209.000,1601,101,190.000
+istanbul ,Polo,Benzin,Düz Vites,2011,168.700,1301,76,195.000
+istanbul ,Polo,Dizel,Düz Vites,2011,163.000,1301,76,199.500
+istanbul ,Jetta,Benzin,Düz Vites,2015,44.206,1300,101,200.000
+istanbul ,Jetta,Dizel,Yarý Otomatik Vites,2014,143.000,1301,101,320.000
+istanbul ,Polo,Dizel,Düz Vites,2014,187.900,1301,100,206.500
+istanbul ,Golf,Benzin,Düz Vites,2016,98.000,1300,101,207.000
+ankara ,Passat,Benzin,Düz Vites,2013,135.000,1301,101,210.000
+istanbul ,Passat,Dizel,Yarý Otomatik Vites,2014,100.000,1801,126,211.500
+adana ,Golf,Dizel,Yarý Otomatik Vites,2016,145.000,1301,101,212.500
+aðrý ,Passat,Dizel,Düz Vites,2013,155.000,1301,101,214.000
+istanbul ,Golf,Benzin,Otomatik Vites,2017,32.000,1301,76,214.000
+istanbul ,Polo,Dizel,Düz Vites,2012,133.000,1601,176,215.000
+bursa ,Golf,Dizel,Otomatik Vites,2017,173.000,1601,101,216.500
+istanbul ,Jetta,Benzin,Düz Vites,2014,103.000,1301,126,285.500
+izmir ,Polo,Dizel,Düz Vites,2013,79.800,1300,100,219.900
+istanbul ,Jetta,Dizel,Yarý Otomatik Vites,2011,205.000,1301,101,220.000
+istanbul ,CC,Benzin,Yarý Otomatik Vites,2013,141.000,1301,151,224.500
+istanbul ,Golf,Dizel,Düz Vites,2015,35.800,1301,101,225.000
+adýyaman ,1600,Benzin,Düz Vites,2007,231.500,1601,101,226.500
+adana ,Scirocco,Benzin,Yarý Otomatik Vites,2015,15.000,1301,126,227.500
+izmir ,Golf,Dizel,Yarý Otomatik Vites,2017,35.000,1301,101,229.900
+izmir ,Golf,Benzin,Düz Vites,2016,30.000,1300,101,230.000
+istanbul ,Golf,Benzin,Yarý Otomatik Vites,2018,27.000,1300,101,231.000
+izmir ,Passat,Dizel,Yarý Otomatik Vites,2015,195.600,1301,101,238.000
+istanbul ,Passat,Benzin,Düz Vites,2016,81.000,1301,126,238.000
+istanbul ,Jetta,Dizel,Düz Vites,2013,132.000,1301,101,238.500
+istanbul ,Polo,Benzin,Düz Vites,2020,17.000,1300,101,241.500
+istanbul ,Golf,Benzin,Düz Vites,2012,126.987,1301,101,242.500
+istanbul ,Scirocco,Benzin,Otomatik Vites,2010,180.000,1301,151,250.000
+istanbul ,Polo,Dizel,Düz Vites,2014,146.435,1301,100,253.500
+istanbul ,Polo,Dizel,Düz Vites,2015,130.000,1301,51,256.500
+istanbul ,Passat,Dizel,Düz Vites,2015,117.000,1301,101,259.900
+adana ,Passat,Dizel,Otomatik Vites,2015,163.350,1301,101,260.000
+istanbul ,Passat,Dizel,Düz Vites,2016,50.803,1301,101,519.500
+istanbul ,Passat,Dizel,Yarý Otomatik Vites,2015,159.900,1301,101,260.000
+istanbul ,Polo,Benzin,Yarý Otomatik Vites,2013,103.500,1301,176,263.500
+istanbul ,Passat,Dizel,Yarý Otomatik Vites,2013,194.000,1301,101,265.000
+istanbul ,Jetta,Benzin,Düz Vites,2015,62.972,1300,101,301.000
+aðrý ,Passat,Benzin,Düz Vites,2016,42.000,1301,101,266.000
+istanbul ,Passat,Dizel,Yarý Otomatik Vites,2017,124.000,1301,101,268.900
+istanbul ,Passat,Dizel,Yarý Otomatik Vites,2016,85.000,1301,101,270.000
+istanbul ,Passat,Dizel,Otomatik Vites,2009,163.000,1301,126,270.000
+istanbul ,Jetta,Dizel,Düz Vites,2012,138.500,1301,101,271.000
+bursa ,Jetta,Benzin,Düz Vites,2012,148.000,1300,101,272.000
+izmir ,Golf,Dizel,Yarý Otomatik Vites,2017,90.000,1301,101,275.000
+izmir ,Tiguan,Benzin,Düz Vites,2009,93.600,1301,101,277.000
+istanbul ,Polo,Dizel,Yarý Otomatik Vites,2016,73.165,1301,100,277.500
+istanbul ,Jetta,Dizel,Otomatik Vites,2013,98.561,1301,101,278.000
+istanbul ,Jetta,Dizel,Otomatik Vites,2014,177.820,1301,101,279.000
+istanbul ,Passat,Benzin,Yarý Otomatik Vites,2012,217.000,1301,151,279.000
+istanbul ,Jetta,Benzin,Düz Vites,2014,103.000,1301,126,285.500
+istanbul ,Polo,Benzin,Otomatik Vites,2014,48.000,1300,76,285.750
+istanbul ,Golf,Benzin,Yarý Otomatik Vites,2020,17.781,1301,126,287.500
+istanbul ,Passat,Dizel,Otomatik Vites,2018,75.900,1301,151,680.000
+ankara ,Passat,Benzin,Otomatik Vites,2005,229.000,1801,126,289.900
+istanbul ,Passat,Dizel,Otomatik Vites,2017,119.000,1301,101,290.000
+istanbul ,Jetta,Dizel,Düz Vites,2014,148.486,1301,101,291.500
+ankara ,Passat,Benzin,Düz Vites,2006,320.000,1601,101,293.000
+ankara ,Passat,Benzin,Otomatik Vites,2006,290.000,1801,126,295.000
+adýyaman ,Passat,Dizel,Yarý Otomatik Vites,2016,91.000,1301,101,295.000
